@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=sxhkd
-Hidden=false
-X-MATE-Autostart-enabled=true
-Name[en_AU]=Keybindings
-Name=Keybindings
-Comment[en_AU]=Simple hotkey daemon
-Comment=Simple hotkey daemon

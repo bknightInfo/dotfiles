@@ -1,1 +1,0 @@
-try{localStorage.getItem("")}catch(e){delete localStorage,window.localStorage={setItem:()=>{},getItem:()=>{}},delete sessionStorage,window.sessionStorage={setItem:()=>{},getItem:()=>{}}}
